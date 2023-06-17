@@ -12,3 +12,6 @@
 
 Sistema desenvolvido pensando na ideia proposta por uma startup
 
+## ☕ Usando ComFoco
+
+É possível acessar inicialmente o sistema para uma prévia de como ficaria a aparência final através do link - https://gerikpng.github.io/public/
